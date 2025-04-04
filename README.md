@@ -105,6 +105,3 @@ Alguns dos projetos práticos que serão encontrados neste repositório:
 
 Este repositório é de uso pessoal, mas fique à vontade para estudar com ele, deixar uma estrela ⭐ ou abrir sugestões.
 
----
-
-**_Feito com 💙 por um estudante em constante evolução!_**
