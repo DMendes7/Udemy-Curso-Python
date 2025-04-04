@@ -1,7 +1,7 @@
 
 # 🐍 Curso Completo de Python 3+ (Repositório de Estudos)
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Udemy_logo.svg" alt="Udemy Logo" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" height="100"/> <img src="https://vetores.org/wp-content/uploads/udemy.png" alt="Udemy Logo" height="50"/>
 
 Este repositório contém todos os **exercícios**, **projetos práticos** e **anotações** desenvolvidos durante o curso **"Python 3+ completo"** da Udemy.
 
